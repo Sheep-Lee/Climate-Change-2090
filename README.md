@@ -1,7 +1,6 @@
 # Climate-Change-2090
 
 # Inspired by that Grammarly ad
-# Original script found here: https://www.twitchquotes.com/copypastas/3983
 
 
 Writing's not that easy.
@@ -17,5 +16,6 @@ Are you ready to give it a try?
 Installation is simple and free.
 Visit the future today!
 
+# Original ad script found here: https://www.twitchquotes.com/copypastas/3983
+
 # ONE DAY WHEN I LEARN HOW TO MAKE A PROPER CHOICE-BASED STORY GAME I WILL BE BACK TO REMAKE THIS #
-# CURSE YOU PERRY THE PLATYPUS #
