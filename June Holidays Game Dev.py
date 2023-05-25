@@ -753,7 +753,7 @@ if choice11 == '2':
 print(input("=YOUR STATS RIGHT NOW IS {}. CHOOSE YOUR NEXT OPTIONS WISELY=".format(char_stats)))
 fight = True
 rayden_health = 100
-name_upper = name.upper
+name_upper = name.upper()
 scobro_health = 200
 scobro_choice = range(3)
 
